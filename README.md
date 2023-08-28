@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [https://your-solution-url.com](https://your-solution-url.com)
-- Live Site URL: [https://your-solution-url.com](https://your-live-site-url.com)
+- Live Site URL: [https://jaquelin9.github.io/qr-code-challeng9/](https://jaquelin9.github.io/qr-code-challeng9/)
 
 ## My process
 
