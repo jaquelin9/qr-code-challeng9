@@ -20,7 +20,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-using-html-and-css-7bVVymcYU)](https://www.frontendmentor.io/solutions/qr-code-component-using-html-and-css-7bVVymcYU3)
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-using-html-and-css-7bVVymcYU](https://www.frontendmentor.io/solutions/qr-code-component-using-html-and-css-7bVVymcYU3)
 - Live Site URL: [https://jaquelin9.github.io/qr-code-challeng9/](https://jaquelin9.github.io/qr-code-challeng9/)
 
 ## My process
