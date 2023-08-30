@@ -1,4 +1,4 @@
-body { display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; background-color: #d5e1ef; font-family: 'Outfit'; }
+body { display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; min-height: 100vh; background-color: #d5e1ef; font-family: 'Outfit'; }
 h1 { font-weight: 700; }
 p { font-weight: 400; font-size: 15px; }
 
